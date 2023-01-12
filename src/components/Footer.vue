@@ -7,7 +7,7 @@
         </v-btn>
       </v-card-text>
       <v-card-text class="white--text pt-0">
-        Ah tery is a Free Movies streaming site with zero ads. We let you watch
+        MOVIE API is a Free Movies streaming site with zero ads. We let you watch
         movies online without having to register or paying, with over 10000
         movies and TV-Series. You can also Download full movies from Ah tery and
         watch it later if you want.
