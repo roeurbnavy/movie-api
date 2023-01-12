@@ -9,7 +9,7 @@
     </v-system-bar> -->
     <v-app-bar app dark>
       <v-icon class="mr-2">fas fa-video</v-icon>
-      <v-toolbar-title>AH TERY</v-toolbar-title>
+      <v-toolbar-title>MOVIES API</v-toolbar-title>
       <v-btn text class="ml-2" @click="clickRoute('home')">Home</v-btn>
       <v-btn text class="ml-2" @click="clickRoute('movie')">Movies</v-btn>
       <v-btn text class="ml-2" @click="clickRoute('tv')">TV Shows</v-btn>
